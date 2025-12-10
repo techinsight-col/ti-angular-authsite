@@ -26,4 +26,6 @@ jobs:
           app_location: "/"
           api_location: ""
           output_location: "dist/ti-angular-authsite/browser"
+          production_branch: "main"
+
 
